@@ -22,7 +22,7 @@ import DataContext from './context/DataContext'
 
 function App() {
 
-  const {posts, setPosts, search,setSearch,  searchResults, setSearchResults} = useContext(DataContext)
+  const {posts, setPosts, search, setSearch,  searchResults, setSearchResults} = useContext(DataContext)
 
 
  

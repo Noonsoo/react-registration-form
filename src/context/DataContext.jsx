@@ -7,6 +7,8 @@ export const DataProvider = ({children})    => {
     const [posts, setPosts] = useState([])
     const[searchResults, setSearchResults] = useState([])
     const [search, setSearch] =useState("")
+
+    
     
 useEffect(() => {
     const fetchPosts = async () => {
