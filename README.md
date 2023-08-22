@@ -1,1 +1,1 @@
-A basic react blog app
+A basic react registration form
